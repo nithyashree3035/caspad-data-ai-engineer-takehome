@@ -1,0 +1,201 @@
+review_number,theme,delivery_status,summary
+1,product_quality,On-Time,Wallet is well finished and made of leather as specified.
+2,good_experience,On-Time,The product was good and delivered on time.
+3,good_experience,On-Time,The delivery was fast.
+4,good_experience,On-Time,The order arrived on time and met expectations.
+5,good_experience,On-Time,The order was delivered ahead of schedule and the customer was satisfied.
+6,good_experience,On-Time,The order arrived correctly within the agreed time.
+7,wrong_or_missing_item,On-Time,Three curtains were missing from the order.
+8,late_or_not_received,Late,The delivery took too long but arrived in perfect condition.
+9,product_quality,On-Time,The product met expectations and had no defects.
+10,good_experience,On-Time,The order arrived on time.
+11,other,On-Time,The review is too short to determine the experience.
+12,late_or_not_received,On-Time,The product was good but the delivery was disappointing.
+13,late_or_not_received,Late,The customer did not receive the product.
+14,good_experience,On-Time,The customer had a positive experience.
+15,late_or_not_received,On-Time,The customer wants faster deliveries.
+16,late_or_not_received,On-Time,The customer wants a quick refund or is still waiting for delivery.
+17,late_or_not_received,Late,The promised delivery time was not met.
+18,wrong_or_missing_item,On-Time,A connector was missing from the order.
+19,product_quality,On-Time,The product lacked a manual and required Windows.
+20,other,On-Time,The review is too short to determine the experience.
+21,product_quality,On-Time,The curtain fabric was extremely thin and the customer wants an exchange.
+22,product_quality,On-Time,The lids arrived broken due to inadequate packaging.
+23,good_experience,On-Time,"The customer loved the backpack, which arrived on the child's birthday."
+24,wrong_or_missing_item,On-Time,The cushions did not arrive.
+25,good_experience,On-Time,The customer gave a positive review.
+26,good_experience,On-Time,Everything was fine with the delivery.
+27,good_experience,On-Time,The products were good quality and delivered before the deadline.
+28,good_experience,On-Time,The customer described the experience positively.
+29,good_experience,On-Time,The order arrived early and the product was being tested.
+30,good_experience,On-Time,The customer liked the purchase and its good quality.
+31,wrong_or_missing_item,On-Time,The customer ordered 240 tablets but received only 120.
+32,good_experience,On-Time,The delivery was very fast.
+33,wrong_or_missing_item,On-Time,The customer ordered three wine bottles but received two.
+34,product_quality,On-Time,The product was damaged after being connected to 220V instead of 110V.
+35,wrong_or_missing_item,On-Time,The delivered charger had half the advertised amperage.
+36,wrong_or_missing_item,On-Time,The customer received only one of two pieces.
+37,good_experience,On-Time,The delivery was very fast although the product had not been installed yet.
+38,other,On-Time,The cartridge requirement was not clearly stated.
+39,good_experience,On-Time,The product was excellent and arrived in good condition.
+40,good_experience,On-Time,The product was good and arrived very quickly.
+41,good_experience,On-Time,The purchase was great for a limited space.
+42,late_or_not_received,Late,The transformer was not received and carrier follow-up was delayed.
+43,other,On-Time,The order was canceled and the customer asks how to reorder using the paid amount.
+44,wrong_or_missing_item,On-Time,The wrong color was shipped.
+45,good_experience,On-Time,The customer described the product positively.
+46,late_or_not_received,Late,The delivery took longer than other orders.
+47,product_quality,On-Time,The product quality was poor and the material was too thin.
+48,good_experience,On-Time,The customer had an excellent experience and recommends the product.
+49,product_quality,On-Time,The material and finish quality were worse than expected from the website.
+50,good_experience,On-Time,The product was excellent for a photographer.
+51,product_quality,On-Time,The product was close to its expiration date and the customer wants an exchange.
+52,good_experience,On-Time,The customer liked the service.
+53,other,On-Time,The customer found the shipping cost too expensive.
+54,good_experience,On-Time,"The order arrived correctly, early, well packaged, and undamaged."
+55,good_experience,On-Time,The product was good quality and matched the image.
+56,good_experience,On-Time,The customer had an excellent experience and regularly buys here.
+57,good_experience,On-Time,"The store was reliable, fast, and offered a good price."
+58,product_quality,On-Time,The customer believed the watch was counterfeit and poor quality.
+59,good_experience,On-Time,The order arrived early and had excellent quality.
+60,late_or_not_received,Late,The customer did not receive the order.
+61,good_experience,On-Time,The order fulfilled what was agreed.
+62,product_quality,On-Time,The screen protector was scratched and had insufficient adhesive.
+63,good_experience,On-Time,The magnesium chloride kit offered better value than buying separately.
+64,product_quality,On-Time,The battery charger had a small manufacturing defect.
+65,late_or_not_received,On-Time,The delivery took longer than competitors but arrived before the deadline.
+66,good_experience,On-Time,The customer described the experience positively.
+67,good_experience,On-Time,"The customer recommends the store for quality, price, and speed."
+68,late_or_not_received,Late,The customer experienced a delivery problem or delay.
+69,good_experience,On-Time,The product was excellent.
+70,good_experience,On-Time,"The child loved the beautiful product, which arrived on time and intact."
+71,good_experience,On-Time,The customer intends to continue buying from the store.
+72,product_quality,On-Time,Poor packaging caused the product to need repairs.
+73,good_experience,On-Time,The customer described the service as excellent.
+74,good_experience,On-Time,The delivery was fine and the product was very good.
+75,product_quality,On-Time,The box was partly open and the warranty or expiration date was close.
+76,good_experience,On-Time,Everything was fine with the order.
+77,good_experience,On-Time,The merchandise was perfect and the customer recommends it.
+78,good_experience,On-Time,The customer liked the product.
+79,product_quality,On-Time,The supposedly branded Targus product appeared to be counterfeit.
+80,late_or_not_received,Late,The customer did not receive the order.
+81,good_experience,On-Time,"The product exceeded expectations, arrived early, and had good quality."
+82,wrong_or_missing_item,On-Time,The packaging was labeled for a different Honda model.
+83,good_experience,On-Time,The order arrived on time and the product was good and easy to apply.
+84,good_experience,On-Time,The order arrived early and the frame was exactly as desired.
+85,wrong_or_missing_item,On-Time,Two kitchen mat products were missing.
+86,good_experience,On-Time,The customer described the product as excellent.
+87,good_experience,On-Time,"The product was original, reasonably priced, and delivered quickly."
+88,late_or_not_received,Late,The customer received no updates about the order.
+89,late_or_not_received,On-Time,The customer did not receive the belt.
+90,good_experience,On-Time,The customer received the correct order.
+91,good_experience,On-Time,The product was excellent and delivery was fast.
+92,wrong_or_missing_item,On-Time,The customer ordered gold and white brushes but received pink ones.
+93,wrong_or_missing_item,On-Time,The customer ordered a transparent phone case but received a colorful one.
+94,other,On-Time,The customer questioned why the order had to be collected at the post office despite paying for delivery.
+95,good_experience,On-Time,The customer described the product as excellent.
+96,wrong_or_missing_item,On-Time,The customer received a different vacuum model.
+97,good_experience,On-Time,The customer described the product as excellent.
+98,good_experience,On-Time,The order arrived on time and was well packaged.
+99,good_experience,On-Time,The watch was excellent and as described.
+100,good_experience,On-Time,The customer described the experience positively.
+101,good_experience,On-Time,The platform was excellent for shopping.
+102,good_experience,On-Time,The customer praised the delivery.
+103,good_experience,On-Time,The product was exactly as expected and perfect.
+104,good_experience,On-Time,The customer had a very good shopping experience.
+105,late_or_not_received,Late,The product was not delivered and the customer received no response.
+106,good_experience,On-Time,"The product arrived early, well packaged, and beautiful."
+107,good_experience,On-Time,The customer considered the product excellent.
+108,late_or_not_received,On-Time,The customer had to collect the order from the post office despite paying for home delivery.
+109,good_experience,On-Time,The customer praised the product's excellent quality.
+110,good_experience,On-Time,The customer described the experience as good.
+111,good_experience,On-Time,The product arrived early and was of great quality.
+112,product_quality,On-Time,The customer was uncertain whether the hard plastic product could withstand the lamp's heat.
+113,other,On-Time,The customer experienced an incorrect price but the issue was resolved.
+114,product_quality,On-Time,The customer considered the product to be poor quality.
+115,late_or_not_received,On-Time,The customer found the delivery slower than other products.
+116,good_experience,On-Time,The customer praised the product and fast delivery.
+117,good_experience,On-Time,The product matched the advertised quality and arrived early.
+118,good_experience,On-Time,The customer praised the excellent and very fast delivery.
+119,late_or_not_received,Late,The customer complained repeatedly about delivery without receiving a response.
+120,product_quality,On-Time,The customer felt the product's finish could be improved.
+121,good_experience,On-Time,The product exceeded the customer's expectations.
+122,wrong_or_missing_item,Late,The customer paid for a complete kit but received only the curl activator.
+123,good_experience,On-Time,"The product arrived early, was correctly described, and was well packaged."
+124,good_experience,On-Time,Everything was as expected and arrived on time.
+125,good_experience,On-Time,The customer considered the store very good.
+126,good_experience,On-Time,The customer praised the very fast delivery.
+127,wrong_or_missing_item,On-Time,The customer received a different product from the one ordered.
+128,good_experience,On-Time,Everything was correct with the order.
+129,wrong_or_missing_item,On-Time,Two pieces of the massage device were missing.
+130,other,On-Time,The review is too unclear to determine a specific issue.
+131,good_experience,On-Time,"The customer praised the price, fast delivery, and reliability of the store."
+132,good_experience,On-Time,The product arrived correctly and on time.
+133,product_quality,On-Time,The product differed from its images and the customer suggested clearer product photos.
+134,product_quality,On-Time,The two identical valves had different thread specifications.
+135,late_or_not_received,Late,The product arrived late but was received in perfect condition.
+136,late_or_not_received,Late,"The delivery arrived too late for Christmas, requiring a replacement gift."
+137,good_experience,On-Time,The customer considered the product very good and comfortable.
+138,good_experience,On-Time,The customer praised the fast delivery and loved the product.
+139,good_experience,On-Time,The customer considered the experience very good.
+140,good_experience,On-Time,The product arrived on time and matched the advertised characteristics.
+141,product_quality,On-Time,The watch was considered good quality.
+142,good_experience,On-Time,The product arrived early and in perfect condition.
+143,good_experience,On-Time,The product arrived ahead of schedule.
+144,good_experience,On-Time,The correct product was delivered ahead of schedule.
+145,late_or_not_received,Late,The customer had not received the product yet.
+146,late_or_not_received,Late,The delivery was very delayed and the customer could not get information about it.
+147,late_or_not_received,Late,The product was over 30 days late with no delivery information or contact.
+148,good_experience,Late,The customer considered the store very good.
+149,good_experience,On-Time,"The product had poor quality and stayed permanently lit, consuming too many batteries."
+150,good_experience,On-Time,The customer considered the service excellent.
+151,good_experience,On-Time,The product arrived ahead of schedule.
+152,good_experience,On-Time,The products arrived correctly and ahead of schedule.
+153,good_experience,On-Time,The customer considered the product very good.
+154,good_experience,On-Time,The product arrived quickly and in perfect condition.
+155,good_experience,On-Time,The product arrived ahead of schedule and was highly recommended.
+156,good_experience,On-Time,The company delivered ahead of schedule and the product was in perfect condition.
+157,good_experience,On-Time,The product was beautiful and arrived ahead of schedule.
+158,good_experience,On-Time,The correct product was delivered on time.
+159,wrong_or_missing_item,On-Time,The product was different from what was advertised.
+160,good_experience,On-Time,The product arrived very quickly.
+161,late_or_not_received,Late,The delivery was over 30 days late with outdated transport information.
+162,product_quality,On-Time,The product was strong and had good finishing.
+163,good_experience,On-Time,The product was delivered well before the expected date.
+164,good_experience,On-Time,The customer would buy from the store again.
+165,product_quality,On-Time,The correct product arrived but was not in the expected condition.
+166,other,On-Time,The customer considered the shipping cost unreasonable.
+167,good_experience,On-Time,The customer recommends the company.
+168,good_experience,On-Time,The customer was very satisfied with the store.
+169,good_experience,On-Time,The product arrived earlier than expected without any problems.
+170,good_experience,On-Time,The customer loved the product and was already using it.
+171,other,On-Time,The customer wanted information about the extended warranty document.
+172,product_quality,On-Time,The product had an authenticity label.
+173,good_experience,On-Time,Everything was correct with the extended warranty.
+174,good_experience,On-Time,The product arrived ahead of schedule.
+175,product_quality,On-Time,"The cookware set was good, but one frying pan had areas where the paint came off."
+176,product_quality,On-Time,The product arrived quickly but the smartphone screen protector was cracked.
+177,wrong_or_missing_item,On-Time,The customer ordered two different colors but received two items in the same color.
+178,good_experience,On-Time,The delivery was fast.
+179,good_experience,On-Time,The customer was satisfied with the purchase and praised the fast delivery.
+180,good_experience,On-Time,"The product was wonderful, arrived early, and was well packaged."
+181,good_experience,On-Time,The order arrived on time and was an original kit.
+182,good_experience,On-Time,The delivery was very fast and the product met expectations.
+183,good_experience,On-Time,The product was high quality and arrived on time.
+184,good_experience,On-Time,The product arrived in seven days and the customer was very satisfied.
+185,good_experience,On-Time,The customer found the service attentive and helpful.
+186,other,On-Time,The customer found it difficult to contact support because some issues did not fit the website options.
+187,late_or_not_received,On-Time,The order was not delivered.
+188,late_or_not_received,On-Time,The order was marked as delivered but the customer did not receive it.
+189,good_experience,On-Time,The customer was very satisfied with the purchase.
+190,good_experience,On-Time,The customer liked the product.
+191,good_experience,On-Time,The order arrived on time and the product was in excellent condition and quality.
+192,wrong_or_missing_item,Late,The customer ordered two units but received only one.
+193,late_or_not_received,Late,The customer had not received the product and the delivery was far past the expected deadline.
+194,good_experience,On-Time,The product was good and the delivery was fast.
+195,product_quality,On-Time,The customer praised the product quality.
+196,wrong_or_missing_item,On-Time,The customer ordered lemon-scented cleaner but received lavender-scented cleaner.
+197,good_experience,On-Time,The order was delivered well ahead of schedule.
+198,late_or_not_received,On-Time,The order was not delivered by the promised date.
+199,good_experience,On-Time,The customer highly recommends the product.
+200,good_experience,On-Time,The order arrived well before the expected delivery date.

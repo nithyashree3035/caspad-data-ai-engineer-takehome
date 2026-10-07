@@ -1,0 +1,610 @@
+===== BATCH 1: REVIEWS 1–20 =====
+Review number: 1
+Theme: product_quality
+Summary: The wallet is well-finished and made of leather as specified.
+Review number: 2
+Theme: good_experience
+Summary: The product was good and delivered on time.
+Review number: 3
+Theme: good_experience
+Summary: The delivery was fast.
+Review number: 4
+Theme: good_experience
+Summary: The product arrived on time and met expectations.
+Review number: 5
+Theme: good_experience
+Summary: The order was delivered ahead of schedule and the customer was satisfied.
+Review number: 6
+Theme: good_experience
+Summary: The order arrived correctly within the agreed delivery time.
+Review number: 7
+Theme: wrong_or_missing_item
+Summary: Three curtains were missing from the order.
+Review number: 8
+Theme: late_or_not_received
+Summary: The order took too long to arrive but arrived in perfect condition.
+Review number: 9
+Theme: product_quality
+Summary: The product met expectations and had no defects.
+Review number: 10
+Theme: good_experience
+Summary: The order arrived on time.
+Review number: 11
+Theme: other
+Summary: The review is too short to determine the customer's experience.
+Review number: 12
+Theme: late_or_not_received
+Summary: The product was good but the delivery was disappointing.
+Review number: 13
+Theme: late_or_not_received
+Summary: The customer has not received the product yet.
+Review number: 14
+Theme: good_experience
+Summary: The customer expressed a positive opinion.
+Review number: 15
+Theme: late_or_not_received
+Summary: The customer wants deliveries to be faster.
+Review number: 16
+Theme: late_or_not_received
+Summary: The customer wants a refund quickly or would still accept delivery of the product.
+Review number: 17
+Theme: late_or_not_received
+Summary: The product was very good but the promised delivery time was not met.
+Review number: 18
+Theme: wrong_or_missing_item
+Summary: The product arrived missing a connector.
+Review number: 19
+Theme: product_quality
+Summary: The product lacked a manual and required Windows for installation and configuration.
+Review number: 20
+Theme: other
+Summary: The review is too short to determine the customer's experience.
+
+===== BATCH 2: REVIEWS 21–40 =====
+Review number: 21
+Theme: product_quality
+Summary: The curtain fabric is extremely thin and the customer wants to exchange it.
+Review number: 22
+Theme: product_quality
+Summary: The product arrived early, but the lids were broken due to inadequate packaging.
+Review number: 23
+Theme: good_experience
+Summary: The customer loved the backpack and was happy it arrived on the child's birthday.
+Review number: 24
+Theme: wrong_or_missing_item
+Summary: The cushions have not arrived since the order was placed.
+Review number: 25
+Theme: good_experience
+Summary: The customer says the product was good.
+Review number: 26
+Theme: good_experience
+Summary: The customer reports everything went well with the delivery.
+Review number: 27
+Theme: good_experience
+Summary: The products were good quality and arrived before the deadline.
+Review number: 28
+Theme: good_experience
+Summary: The customer says the experience was very good.
+Review number: 29
+Theme: good_experience
+Summary: The product arrived earlier than estimated and is currently being tested.
+Review number: 30
+Theme: good_experience
+Summary: The customer liked the quality of the product and its early delivery.
+Review number: 31
+Theme: wrong_or_missing_item
+Summary: The customer ordered 240 tablets but received only 120 and requested an exchange.
+Review number: 32
+Theme: good_experience
+Summary: The customer says the delivery was very fast.
+Review number: 33
+Theme: wrong_or_missing_item
+Summary: The customer ordered three wine bottles but received only two.
+Review number: 34
+Theme: product_quality
+Summary: The product was damaged when connected to a 220-volt power supply instead of 110 volts.
+Review number: 35
+Theme: wrong_or_missing_item
+Summary: The delivered charger has half the amperage that was advertised.
+Review number: 36
+Theme: wrong_or_missing_item
+Summary: The customer received only one of the two pieces.
+Review number: 37
+Theme: good_experience
+Summary: The customer has not installed the product yet but says the delivery was very fast.
+Review number: 38
+Theme: other
+Summary: The customer complains that the need for a cartridge was not clearly stated.
+Review number: 39
+Theme: good_experience
+Summary: The customer says the product arrived in good condition.
+Review number: 40
+Theme: good_experience
+Summary: The customer liked the product and praised the very fast delivery
+===== BATCH 3: REVIEWS 41–60 =====
+Review number: 41
+Theme: good_experience
+Summary: Great purchase for people with limited space to dry clothes.
+Review number: 42
+Theme: late_or_not_received
+Summary: The voltage transformer has not been received and the promised carrier follow-up was delayed.
+Review number: 43
+Theme: other
+Summary: The order was canceled and the customer asks how to place another order using the amount already paid.
+Review number: 44
+Theme: wrong_or_missing_item
+Summary: The company shipped the product in the wrong color.
+Review number: 45
+Theme: good_experience
+Summary: Very good.
+Review number: 46
+Theme: late_or_not_received
+Summary: The order took longer to arrive than previous orders.
+Review number: 47
+Theme: product_quality
+Summary: The product is poor quality and too thin, almost like water.
+Review number: 48
+Theme: good_experience
+Summary: Excellent product, easy to use, and recommended.
+Review number: 49
+Theme: product_quality
+Summary: The product appears to have better material and finish quality on the website.
+Review number: 50
+Theme: good_experience
+Summary: Excellent product and suitable for any photographer.
+Review number: 51
+Theme: product_quality
+Summary: The product arrived close to its expiration date and the customer wants an exchange.
+Review number: 52
+Theme: good_experience
+Summary: The customer liked the service and hopes for the same quality on the next purchase.
+Review number: 53
+Theme: other
+Summary: The shipping cost is too expensive and discourages another purchase.
+Review number: 54
+Theme: good_experience
+Summary: The product arrived correctly, ahead of schedule, well packaged, and undamaged.
+Review number: 55
+Theme: good_experience
+Summary: The product is good quality and matches the advertised image.
+Review number: 56
+Theme: good_experience
+Summary: Excellent service and the customer always buys here.
+Review number: 57
+Theme: good_experience
+Summary: The service is reliable, fast, and reasonably priced.
+Review number: 58
+Theme: product_quality
+Summary: The watch was not original, differed from the advertised photo, and was poor quality.
+Review number: 59
+Theme: good_experience
+Summary: The product arrived well before the deadline and was excellent quality.
+Review number: 60
+Theme: late_or_not_received
+Summary: The product has still not been delivered.
+===== BATCH 4: REVIEWS 61–80 =====
+Review number: 61
+Theme: good_experience
+Summary: The order fulfilled what was agreed.
+Review number: 62
+Theme: product_quality
+Summary: The screen protector had scratches and insufficient adhesive, indicating poor quality.
+Review number: 63
+Theme: good_experience
+Summary: The magnesium chloride kit offers better value than buying individual products.
+Review number: 64
+Theme: product_quality
+Summary: The battery charger had a small manufacturing defect.
+Review number: 65
+Theme: late_or_not_received
+Summary: The delivery took longer than competitors but arrived before the promised deadline.
+Review number: 66
+Theme: good_experience
+Summary: The customer found the product very good.
+Review number: 67
+Theme: good_experience
+Summary: The customer recommends the store for its quality, price, and fast delivery.
+Review number: 68
+Theme: late_or_not_received
+Summary: The product experienced a delivery delay.
+Review number: 69
+Theme: good_experience
+Summary: The customer considers the product excellent.
+Review number: 70
+Theme: good_experience
+Summary: The customer loved the beautiful product, which arrived on time and intact.
+Review number: 71
+Theme: good_experience
+Summary: The customer intends to continue buying from the store.
+Review number: 72
+Theme: product_quality
+Summary: The poor packaging caused the product to arrive needing repairs.
+Review number: 73
+Theme: good_experience
+Summary: The customer praised the service.
+Review number: 74
+Theme: good_experience
+Summary: The delivery was correct and the product was very good.
+Review number: 75
+Theme: product_quality
+Summary: The box was partly open and the warranty or expiration date was very close.
+Review number: 76
+Theme: good_experience
+Summary: Everything went well with the order.
+Review number: 77
+Theme: good_experience
+Summary: The customer found the merchandise perfect and recommends it.
+Review number: 78
+Theme: good_experience
+Summary: The customer liked the product.
+Review number: 79
+Theme: product_quality
+Summary: The customer discovered that the supposedly branded Targus product was counterfeit.
+Review number: 80
+Theme: late_or_not_received
+Summary: The customer did not receive the order.
+===== BATCH 5: REVIEWS 81–100 =====
+Review number: 81
+Theme: good_experience
+Summary: The product exceeded expectations, arrived early, and was beautiful and good quality.
+Review number: 82
+Theme: wrong_or_missing_item
+Summary: The packaging was labeled for a different Honda model than the one purchased.
+Review number: 83
+Theme: good_experience
+Summary: The product arrived on time, was easy to apply, and worked well.
+Review number: 84
+Theme: good_experience
+Summary: The product arrived early and the frame was exactly as desired.
+Review number: 85
+Theme: wrong_or_missing_item
+Summary: Two kitchen mat products were missing from the order.
+Review number: 86
+Theme: good_experience
+Summary: The customer describes the experience as excellent.
+Review number: 87
+Theme: good_experience
+Summary: The product was original, reasonably priced, and delivered quickly.
+Review number: 88
+Theme: late_or_not_received
+Summary: The customer has not received any updates about the order.
+Review number: 89
+Theme: late_or_not_received
+Summary: The customer has still not received the belt.
+Review number: 90
+Theme: good_experience
+Summary: The customer received the product correctly as ordered.
+Review number: 91
+Theme: good_experience
+Summary: The product was excellent and delivery was very fast.
+Review number: 92
+Theme: wrong_or_missing_item
+Summary: The customer ordered gold and white brushes but received two pink brushes instead.
+Review number: 93
+Theme: wrong_or_missing_item
+Summary: The customer ordered a transparent phone case but received a colorful one instead.
+Review number: 94
+Theme: other
+Summary: The customer questions why the package must be collected at a post office despite paying for delivery.
+Review number: 95
+Theme: good_experience
+Summary: The customer considers the product excellent.
+Review number: 96
+Theme: wrong_or_missing_item
+Summary: The customer received a different vacuum cleaner model from the one ordered.
+Review number: 97
+Theme: good_experience
+Summary: The customer describes the product as excellent.
+Review number: 98
+Theme: good_experience
+Summary: The product arrived on time and was very well packaged.
+Review number: 99
+Theme: good_experience
+Summary: The watch was excellent and matched the description.
+Review number: 100
+Theme: good_experience
+Summary: The customer was very satisfied with the product.
+===== BATCH 6: REVIEWS 101–140 =====
+Review number: 101
+Theme: good_experience
+Summary: The customer considers the platform excellent for shopping.
+Review number: 102
+Theme: good_experience
+Summary: The customer praises the delivery.
+Review number: 103
+Theme: good_experience
+Summary: The product was exactly as expected and perfect.
+Review number: 104
+Theme: good_experience
+Summary: The customer had a very good shopping experience.
+Review number: 105
+Theme: late_or_not_received
+Summary: The product was not delivered and the customer has received no response.
+Review number: 106
+Theme: good_experience
+Summary: The product arrived early, was well packaged, and was beautiful.
+Review number: 107
+Theme: good_experience
+Summary: The customer considers the product excellent.
+Review number: 108
+Theme: late_or_not_received
+Summary: The customer had to collect the order from the post office despite paying for home delivery.
+Review number: 109
+Theme: good_experience
+Summary: The customer praises the product's excellent quality.
+Review number: 110
+Theme: good_experience
+Summary: The customer describes the experience as good.
+Review number: 111
+Theme: good_experience
+Summary: The product arrived early and was of great quality.
+Review number: 112
+Theme: product_quality
+Summary: The customer is uncertain whether the hard plastic product can withstand the lamp's heat.
+Review number: 113
+Theme: other
+Summary: The customer experienced an incorrect price but the issue was resolved.
+Review number: 114
+Theme: product_quality
+Summary: The customer considers the product to be poor quality.
+Review number: 115
+Theme: late_or_not_received
+Summary: The customer finds the delivery slower than other products.
+Review number: 116
+Theme: good_experience
+Summary: The customer praises the product and fast delivery.
+Review number: 117
+Theme: good_experience
+Summary: The product matched the advertised quality and arrived early.
+Review number: 118
+Theme: good_experience
+Summary: The customer praises the excellent and very fast delivery.
+Review number: 119
+Theme: late_or_not_received
+Summary: The customer has complained repeatedly about delivery without receiving a response.
+Review number: 120
+Theme: product_quality
+Summary: The customer feels the product's finish could be improved.
+Review number: 121
+Theme: good_experience
+Summary: The product exceeded the customer's expectations.
+Review number: 122
+Theme: wrong_or_missing_item
+Summary: The customer paid for a complete kit but received only the curl activator.
+Review number: 123
+Theme: good_experience
+Summary: The product arrived early, correctly described, and well packaged.
+Review number: 124
+Theme: good_experience
+Summary: Everything was as expected and arrived on time.
+Review number: 125
+Theme: good_experience
+Summary: The customer considers the store very good.
+Review number: 126
+Theme: good_experience
+Summary: The customer praises the very fast delivery.
+Review number: 127
+Theme: wrong_or_missing_item
+Summary: The customer received a different product from the one ordered.
+Review number: 128
+Theme: good_experience
+Summary: Everything was correct with the order.
+Review number: 129
+Theme: wrong_or_missing_item
+Summary: Two pieces of the massage device were missing.
+Review number: 130
+Theme: other
+Summary: The review is too unclear to determine a specific issue.
+Review number: 131
+Theme: good_experience
+Summary: The customer praises the price, fast delivery, and reliability of the store.
+Review number: 132
+Theme: good_experience
+Summary: The product arrived correctly and on time.
+Review number: 133
+Theme: product_quality
+Summary: The customer found the product different from its images and suggests clearer product photos.
+Review number: 134
+Theme: product_quality
+Summary: The two identical valves had different thread specifications.
+Review number: 135
+Theme: late_or_not_received
+Summary: The product arrived late but was received in perfect condition.
+Review number: 136
+Theme: late_or_not_received
+Summary: The delivery arrived too late for Christmas, forcing the customer to buy a replacement gift.
+Review number: 137
+Theme: good_experience
+Summary: The customer considers the product very good and comfortable.
+Review number: 138
+Theme: good_experience
+Summary: The customer praises the fast delivery and loves the product.
+Review number: 139
+Theme: good_experience
+Summary: The customer considers the experience very good.
+Review number: 140
+Theme: good_experience
+Summary: The product arrived on time and matched the advertised characteristics.
+===== BATCH 7: REVIEWS 141–180 =====
+Review number: 141
+Theme: product_quality
+Summary: The watch is of good quality.
+Review number: 142
+Theme: good_experience
+Summary: The product arrived early and in perfect condition.
+Review number: 143
+Theme: good_experience
+Summary: The product arrived ahead of schedule.
+Review number: 144
+Theme: good_experience
+Summary: The correct product was delivered ahead of schedule.
+Review number: 145
+Theme: late_or_not_received
+Summary: The customer has not received the product yet.
+Review number: 146
+Theme: late_or_not_received
+Summary: The delivery is very delayed and the customer cannot get information about it.
+Review number: 147
+Theme: late_or_not_received
+Summary: The product is over 30 days late with no delivery information or contact.
+Review number: 148
+Theme: good_experience
+Summary: The customer considers the store very good.
+Review number: 149
+Theme: product_quality
+Summary: The product has poor quality and stays permanently lit, consuming too many batteries.
+Review number: 150
+Theme: good_experience
+Summary: The customer considers the service excellent.
+Review number: 151
+Theme: good_experience
+Summary: The product arrived ahead of schedule.
+Review number: 152
+Theme: good_experience
+Summary: The products arrived correctly and ahead of schedule.
+Review number: 153
+Theme: good_experience
+Summary: The customer considers the product very good.
+Review number: 154
+Theme: good_experience
+Summary: The product arrived quickly and in perfect condition.
+Review number: 155
+Theme: good_experience
+Summary: The product arrived ahead of schedule and is highly recommended.
+Review number: 156
+Theme: good_experience
+Summary: The company delivered ahead of schedule and the product was in perfect condition.
+Review number: 157
+Theme: good_experience
+Summary: The product is beautiful and arrived ahead of schedule.
+Review number: 158
+Theme: good_experience
+Summary: The correct product was delivered on time.
+Review number: 159
+Theme: wrong_or_missing_item
+Summary: The product was different from what was advertised.
+Review number: 160
+Theme: good_experience
+Summary: The product arrived very quickly.
+Review number: 161
+Theme: late_or_not_received
+Summary: The delivery is over 30 days late with outdated transport information.
+Review number: 162
+Theme: product_quality
+Summary: The product is strong and has good finishing.
+Review number: 163
+Theme: good_experience
+Summary: The product was delivered well before the expected date.
+Review number: 164
+Theme: good_experience
+Summary: The customer would buy from the store again.
+Review number: 165
+Theme: product_quality
+Summary: The correct product arrived but was not in the expected condition.
+Review number: 166
+Theme: other
+Summary: The customer considers the shipping cost unreasonable.
+Review number: 167
+Theme: good_experience
+Summary: The customer recommends the company.
+Review number: 168
+Theme: good_experience
+Summary: The customer is very satisfied with the store.
+Review number: 169
+Theme: good_experience
+Summary: The product arrived earlier than expected and without any problems.
+Review number: 170
+Theme: good_experience
+Summary: The customer loves the product and is already using it.
+Review number: 171
+Theme: other
+Summary: The customer wants information about the extended warranty document.
+Review number: 172
+Theme: product_quality
+Summary: The product has an authenticity label.
+Review number: 173
+Theme: good_experience
+Summary: Everything is correct with the extended warranty.
+Review number: 174
+Theme: good_experience
+Summary: The product arrived ahead of schedule.
+Review number: 175
+Theme: product_quality
+Summary: The cookware set is good, but one frying pan has small areas where the paint came off.
+Review number: 176
+Theme: product_quality
+Summary: The product arrived quickly but the smartphone screen protector was cracked.
+Review number: 177
+Theme: wrong_or_missing_item
+Summary: The customer ordered two different colors but received two items in the same color.
+Review number: 178
+Theme: good_experience
+Summary: The delivery was fast.
+Review number: 179
+Theme: good_experience
+Summary: The customer is satisfied with the purchase and praises the fast delivery.
+Review number: 180
+Theme: good_experience
+Summary: The product is wonderful, arrived early, and was well packaged.
+===== BATCH 8: REVIEWS 181–200 =====
+
+Review number: 181
+Theme: good_experience
+Summary: The order arrived on time and was an original kit.
+Review number: 182
+Theme: good_experience
+Summary: The delivery was very fast and the product met expectations.
+Review number: 183
+Theme: good_experience
+Summary: The product was high quality and arrived on time.
+Review number: 184
+Theme: good_experience
+Summary: The product arrived in seven days and the customer was very satisfied.
+Review number: 185
+Theme: good_experience
+Summary: The customer found the service attentive and helpful.
+Review number: 186
+Theme: other
+Summary: The customer found it difficult to contact support because some issues do not fit the available website options.
+Review number: 187
+Theme: late_or_not_received
+Summary: The order was not delivered.
+Review number: 188
+Theme: late_or_not_received
+Summary: The order was marked as delivered but the customer did not receive it.
+Review number: 189
+Theme: good_experience
+Summary: The customer was very satisfied with the purchase.
+Review number: 190
+Theme: good_experience
+Summary: The customer liked the product.
+Review number: 191
+Theme: good_experience
+Summary: The order arrived on time and the product was in excellent condition and quality.
+Review number: 192
+Theme: wrong_or_missing_item
+Summary: The customer ordered two units but received only one.
+Review number: 193
+Theme: late_or_not_received
+Summary: The customer has not received the product and the delivery is far past the expected deadline.
+Review number: 194
+Theme: good_experience
+Summary: The product was good and the delivery was fast.
+Review number: 195
+Theme: product_quality
+Summary: The customer praised the product quality.
+Review number: 196
+Theme: wrong_or_missing_item
+Summary: The customer ordered lemon-scented cleaner but received lavender-scented cleaner.
+Review number: 197
+Theme: good_experience
+Summary: The order was delivered well ahead of schedule.
+Review number: 198
+Theme: late_or_not_received
+Summary: The order was not delivered by the promised date.
+Review number: 199
+Theme: good_experience
+Summary: The customer highly recommends the product.
+Review number: 200
+Theme: good_experience
+Summary: The order arrived well before the expected delivery date.

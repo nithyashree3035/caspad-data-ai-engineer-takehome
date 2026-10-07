@@ -1,0 +1,27 @@
+You are classifying customer reviews for an e-commerce delivery analysis.
+
+For EACH review, return exactly:
+Review number:
+Theme:
+Summary:
+
+Choose exactly ONE theme from these five:
+1. late_or_not_received
+2. wrong_or_missing_item
+3. product_quality
+4. good_experience
+5. other
+
+Rules:
+- If a review mentions several issues, choose the single most important theme based on the customer's main complaint.
+- Delivery delay, not received, lost delivery, or delivery taking too long → late_or_not_received.
+- Wrong item, missing item, missing parts, or incomplete order → wrong_or_missing_item.
+- Defective, damaged, broken, poor-quality, or product-related problems → product_quality.
+- Clearly positive experience with no major complaint → good_experience.
+- Unclear, extremely short, unrelated, refund/payment/support issues that do not fit the other categories → other.
+- Reviews may be in Portuguese. Understand the Portuguese text, but write the Summary in English.
+- Keep the Summary to ONE short sentence.
+- Do not add explanations or extra categories.
+
+Here are the reviews:
+[PASTE BATCH HERE]
