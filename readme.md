@@ -243,7 +243,7 @@ Only sellers with **at least 50 orders** were included.
 - Late-delivery share was calculated as the number of late delivered orders divided by the number of delivered orders for each seller.
 - The highest observed late-delivery share among eligible sellers was **30.1%**.
 
-This analysis shows that late-delivery performance varies substantially across sellers and can help the Operations team prioritize sellers with consistently high late-delivery rates.
+This analysis shows that late-delivery performance varies substantially across sellers and can help the Operations team prioritize sellers with high observed late-delivery shares.
 
 The resulting seller-level dataset is saved as `seller_late_share.csv`.
 
